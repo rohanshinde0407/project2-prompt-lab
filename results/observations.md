@@ -4,7 +4,7 @@
 **Use Case:** Client Email Drafting
 **Model tested on:** [e.g. GPT-4o / Claude 3.5 Sonnet]
 
----
+----
 
 ## How to Use This File
 
